@@ -15,7 +15,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://rimmmming.github.io/React/react_basic",
+  "homepage": "http://rimmmming.github.io/react_basic",
   "eslintConfig": {
     "extends": "react-app"
   },
